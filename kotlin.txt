@@ -1,0 +1,2 @@
+usuario: nombre_de_usuario
+email: ejemplo@correo.com
